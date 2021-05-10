@@ -17,6 +17,3 @@ curl http://localhost:3000
 
 # 测试：执行以下命令会输出百度的html文本文档
 curl http://localhost:3000/test
-
-
-
